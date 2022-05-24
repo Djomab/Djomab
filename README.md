@@ -35,6 +35,7 @@
   <img height="180em" alt="Djogona Mahamat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djomab&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 </p>
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/djogona-mahamat-belna-78a20a10a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
